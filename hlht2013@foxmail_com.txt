@@ -1,1 +1,0 @@
-TypeError: expected bytes-like object, not str
